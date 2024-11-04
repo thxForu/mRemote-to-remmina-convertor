@@ -1,6 +1,6 @@
 # Convert mRemoteNG xml to Remmina files
 
-This script was created to address stability issues with the deprecated mRemoteNG to Remmina converter project. It provides a reliable way to convert mRemoteNG XML configuration files to Remmina format.
+This project was created to address stability issues with the deprecated mRemoteNG to Remmina converter project. It provides a reliable way to convert mRemoteNG XML configuration files to Remmina format.
 
 ## Features
 
